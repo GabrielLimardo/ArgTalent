@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "ArgTalent",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ArgTalent"
+	}
+}
